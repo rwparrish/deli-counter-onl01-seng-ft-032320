@@ -6,7 +6,7 @@ def line(arr)
     
     arr.each.with_index(1).map { |name, i| }
       
-    
+    return 
     
   else
     
