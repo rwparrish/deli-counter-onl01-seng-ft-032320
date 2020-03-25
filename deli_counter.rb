@@ -1,10 +1,10 @@
 def line(katz_deli)
   
-  arr = []
+  katz_deli = []
   
   if katz_deli.length > 0
     
-    arr.each.with_index(1) { |name, i| }
+    katz_deli.each.with_index(1) { |name, i| }
       
     return "Line is currently: #{i}. #{name}."
     
