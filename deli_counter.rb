@@ -4,7 +4,7 @@ def line(katz_deli)
     
     serving = "The line is currently:"
   
-    katz_deli.each_with_index do |name, i| 
+    katz_deli.each_with_index do |name, index| 
       
       serving += " #{index += 1}. #{name}"
     
