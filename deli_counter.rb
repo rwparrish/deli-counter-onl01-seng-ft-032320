@@ -4,7 +4,9 @@ def line(name)
   
   if arr.length > 0
     
-    arr.each.with_index.map { |name, i|
+    arr.each.with_index(1).map { |name, i| }
+      
+      
     
   else
     
