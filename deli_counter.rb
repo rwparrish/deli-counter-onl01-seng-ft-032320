@@ -8,9 +8,13 @@ def line(katz_deli)
       
     serving += "#{index += 1}. #{name} "
     
-  end
+    end
   
   puts serving 
+  
+else
     
   puts "The line is currently empty"
+  
+end
  
