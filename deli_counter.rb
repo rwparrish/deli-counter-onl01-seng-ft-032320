@@ -1,17 +1,19 @@
 def line(katz_deli)
   
-  katz_deli = []
-  
+  def line(katz_deli)
+    
   if katz_deli.length > 0
     
-    katz_deli.each.with_index(1) { |name, i| }
+    line_number = 1
+    
+    katz_deli.each do |name|
       
-    return "Line is currently: #{i}. #{name}."
+    return "The line is currently: #{}"
     
-  else
-    
-    puts "The line is currently empty."
-    
-  end
+    line_number +=1
 
+  elsif 
+  
+    "The line is currently empty."
+  end
 end
