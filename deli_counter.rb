@@ -4,7 +4,7 @@ def line(arr)
   
   if arr.length > 0
     
-    arr.each.with_index(1).map { |name, i| }
+    arr.each.with_index(1) { |name, i| }
       
     return "Line is currently: #{i}. #{name}."
     
