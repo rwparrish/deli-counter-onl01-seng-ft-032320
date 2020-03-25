@@ -1,4 +1,4 @@
-def line(name)
+def line(arr)
   
   arr = []
   
