@@ -12,8 +12,10 @@ def line(katz_deli)
     
     line_number +=1
 
-  elsif 
+  else
   
     "The line is currently empty."
+    
   end
+  
 end
