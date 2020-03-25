@@ -1,8 +1,8 @@
-def line(arr)
+def line(katz_deli)
   
   arr = []
   
-  if arr.length > 0
+  if katz_deli.length > 0
     
     arr.each.with_index(1) { |name, i| }
       
