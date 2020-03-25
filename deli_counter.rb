@@ -18,4 +18,7 @@ def take_a_number(katz_deli, name)
   
 end
 
-def 
+def now_serving(katz_deli)
+  
+  
+  
